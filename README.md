@@ -40,7 +40,7 @@ Equipment (welding machines, cranes) |
 Indirect Costs (overhead, utilities, admin) |
 All items formatted in tabular structure for clarity and professional use.
 
-📁 Repository Contents
+📁 Repository Contents : <br>
 📂 Assesnment
 📂 AutoCAD_Design
 📂 Screenshots
